@@ -6,7 +6,7 @@
   <head>
   <style>
   *{
-  margin:0;/*�����߾�*/
+  margin:0;
   padding:0;
   }
   body{
@@ -48,11 +48,11 @@ background:url("images/timg.jpg") ;
 		  transform:rotate(-60deg);
 		  }
 		 */
-/*α��*/
 
-#box ul li:before,#box ul li:after{/*,���м�����ͬ����*/
+
+#box ul li:before,#box ul li:after{
 content:"";
-position:absolute;/*���Զ�λ������*/
+position:absolute;
 		  left:0;
 		  top:0;
 		  width:180px;
@@ -68,7 +68,7 @@ position:absolute;/*���Զ�λ������*/
 }
 #box ul li img{
 position:absolute;
-z-index:10;/*����Խ����ʾԽǰ��*/
+z-index:10;
 left:0;
 top:0;
 right:0;
@@ -76,8 +76,8 @@ bottom:0;
 margin:auto;
 transition:0.5s;
 }
-#box ul li img:hover{/*��̬α��*/
-transform:rotate(360deg) scale(1.3);/*css�任 ��ת�Ŵ� */
+#box ul li img:hover{
+transform:rotate(360deg) scale(1.3);
 }
   </style>
  </head>
@@ -103,31 +103,31 @@ transform:rotate(360deg) scale(1.3);/*css�任 ��ת�Ŵ� */
 	 </li>
 	 <li class="six">
 	 <a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E4%BC%8A%E7%8A%81%E6%9E%9C%E5%AD%90%E6%B2%9F%26c%3D1
-"><img src="images/06.png" width="120" height="90" border="0" alt="���ӹ�">
+"><img src="images/06.png" width="120" height="90" border="0" alt="">
 	 </li>
 	 <li>
-	 <a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E9%9C%8D%E5%9F%8E%E8%96%B0%E8%A1%A3%E8%8D%89%26c%3D1"><img src="images/07.png" width="120" height="90" border="0" alt="����޹�²�">
+	 <a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E9%9C%8D%E5%9F%8E%E8%96%B0%E8%A1%A3%E8%8D%89%26c%3D1"><img src="images/07.png" width="120" height="90" border="0" alt="">
 	 </li>
 	 <li>
-	 <a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E9%82%A3%E6%8B%89%E6%8F%90%E8%8D%89%E5%8E%9F%26c%3D1"><img src="images/08.png" width="120" height="90" border="0" alt="����������ԭ">
+	 <a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E9%82%A3%E6%8B%89%E6%8F%90%E8%8D%89%E5%8E%9F%26c%3D1"><img src="images/08.png" width="120" height="90" border="0" alt="">
 	 </li>
 	 <li>
-	 <a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E6%81%B0%E8%A5%BF%E7%BE%8E%E6%99%AF%26c%3D1"><img src="images/09.png" width="120" height="90" border="0" alt="ǡ������">
+	 <a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E6%81%B0%E8%A5%BF%E7%BE%8E%E6%99%AF%26c%3D1"><img src="images/09.png" width="120" height="90" border="0" alt="">
 	 </li>
 	 <li>
-	 <a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%26c%3D1"><img src="images/010.png" width="120" height="90" border="0" alt="����ľ��">
+	 <a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%26c%3D1"><img src="images/010.png" width="120" height="90" border="0" alt="">
 	 </li>
 	 <li>
-	 <a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E5%94%90%E5%B8%83%E6%8B%89%E7%99%BE%E9%87%8C%E7%94%BB%E5%BB%8A%26c%3D1"><img src="images/011.png" width="120" height="90" border="0" alt="�Ʋ���">
+	 <a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E5%94%90%E5%B8%83%E6%8B%89%E7%99%BE%E9%87%8C%E7%94%BB%E5%BB%8A%26c%3D1"><img src="images/011.png" width="120" height="90" border="0" alt="">
 	 </li>
 	 <li>
-	<a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E6%96%B0%E7%96%86%E6%96%B0%E6%BA%90%E9%87%8E%E6%9E%9C%E6%9E%97%26c%3D1"> <img src="images/012.png" width="120" height="90" border="0" alt="��ԴҰ����">
+	<a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E6%96%B0%E7%96%86%E6%96%B0%E6%BA%90%E9%87%8E%E6%9E%9C%E6%9E%97%26c%3D1"> <img src="images/012.png" width="120" height="90" border="0" alt="">
 	 </li>
 	 <li>
-	 <a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%26c%3D1"><img src="images/013.png" width="120" height="90" border="0" alt="�ӻ���">
+	 <a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%26c%3D1"><img src="images/013.png" width="120" height="90" border="0" alt="">
 	 </li>
 	 <li>
-	<a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E6%96%B0%E7%96%86%E6%98%AD%E8%8B%8F%E8%8D%89%E5%8E%9F%26c%3D1"><a href="https://www.baidu.com"> <img src="images/014.png" width="120" height="90" border="0" alt="���ղ�ԭ"></a>
+	<a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E6%96%B0%E7%96%86%E6%98%AD%E8%8B%8F%E8%8D%89%E5%8E%9F%26c%3D1"><a href="https://www.baidu.com"> <img src="images/014.png" width="120" height="90" border="0" alt=""></a>
 	 </li>
 
 	</ul>
