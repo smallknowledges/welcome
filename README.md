@@ -19,9 +19,9 @@ background:url("images/timg.jpg") ;
 	/*background:#ff6600;*/
 	margin:50px auto;
          }
-		 #box ul li{/*�ڲ���ʽ ����ѡ����*/
-		 position:relative;/*���Զ�λdiv*/
-		 list-style:none;/*Ӱ�ص�*/
+		 #box ul li{
+		 position:relative;
+		 list-style:none;
 		 width:180px;
 		 height:105px;
 		 background:rgba(1,2,1,0.4);
@@ -33,7 +33,7 @@ background:url("images/timg.jpg") ;
 		 margin-left:100px;
 		 }
 		  #box ul li div{
-		  position:absolute;/*���Զ�λ������*/
+		  position:absolute;
 		  left:0;
 		  top:0;
 		  width:180px;
